@@ -1,4 +1,4 @@
-# Create, Mint aned Transfer Token
+# Create, Mint and Transfer Token
 ETH Intermediate Module 3: Functions and Errors- this smart contract program demonstrating the assert and revert functions and also the require statements.
 
 ## Description
